@@ -223,6 +223,9 @@ footer .footer-text .bottom {
 }
 /* end */
 @media(max-width:990px){
+    .banner {
+        min-height: 350px;
+    }
     .section-4 .three-col{flex-wrap: wrap;}
     .section-4 .three-col .col{
         flex-basis: 100%;
